@@ -11,7 +11,7 @@ Scenario Outline: Valid Registration
 	And I enter Username text "<Username>"
 	And I enter Email text "<Email>"
 	And I enter password text "<Password>"
-	#And I enter Username
+	And I enter Username
 	#And I enter Email
 	#And I enter password
 	#When I click on the sign up button

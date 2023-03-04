@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+X15u6GBSz3aLrCGr+elGn4vhP7BRRVXDUYdsz0tdcFretb0zmnsFe9Me2PZLb2D8DWzsAHSlOWkFTnmSMVY5w==",
+  "dgSpecHash": "YrcFXY/1yG81XDl7zpA1Xsqi5svVFE1EaZMjsUGTjU2ATsyc+MWZwe5JIWe2BebXtyAghOpZJXiVwGBc+Ivxkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+  "projectFilePath": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balea\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\balea\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

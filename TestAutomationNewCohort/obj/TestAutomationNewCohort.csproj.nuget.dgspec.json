@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {}
+    "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {
+    "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
         "projectName": "TestAutomationNewCohort",
-        "projectPath": "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+        "projectPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
         "packagesPath": "C:\\Users\\balea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balea\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\obj\\",
+        "outputPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationMarchCohort\\TestAutomationNewCohort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balea\\AppData\\Roaming\\NuGet\\NuGet.Config",

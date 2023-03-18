@@ -47,5 +47,12 @@ namespace TestAutomationNewCohort.StepDefinitions
         {
             dataDrivenWithParameterPage.EnterPasssword(password);
         }
+
+        [Given(@"I select skills from the dropdown arrow")]
+        public void GivenISelectSkillsFromTheDropdownArrow()
+        {
+            dataDrivenWithParameterPage.SelectFromDropdown();
+        }
+
     }
 }

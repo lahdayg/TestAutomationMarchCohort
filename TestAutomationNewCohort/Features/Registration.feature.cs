@@ -119,6 +119,9 @@ this.ScenarioInitialize(scenarioInfo);
 #line 13
  testRunner.And(string.Format("I enter password text \"{0}\"", password), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
+#line 14
+ testRunner.And("I enter Username", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
             }
             this.ScenarioCleanup();
         }
